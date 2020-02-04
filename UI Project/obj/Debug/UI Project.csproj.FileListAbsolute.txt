@@ -1,0 +1,9 @@
+C:\Users\Vladimir\source\repos\UI Project\UI Project\bin\UI Project.dll.config
+C:\Users\Vladimir\source\repos\UI Project\UI Project\bin\UI Project.dll
+C:\Users\Vladimir\source\repos\UI Project\UI Project\bin\UI Project.pdb
+C:\Users\Vladimir\source\repos\UI Project\UI Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vladimir\source\repos\UI Project\UI Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vladimir\source\repos\UI Project\UI Project\obj\Debug\UI Project.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\source\repos\UI Project\UI Project\obj\Debug\UI Project.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\UI Project\UI Project\obj\Debug\UI Project.dll
+C:\Users\Vladimir\source\repos\UI Project\UI Project\obj\Debug\UI Project.pdb
